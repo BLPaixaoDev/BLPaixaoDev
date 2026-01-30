@@ -1,6 +1,7 @@
 # 👋 Opa! Sou Bruna Paixão.
 
-Tenho 19 anos, sou técnica em informática para internet pela federal. Sou muito curiosa e apaixonada por tecnologia e gosto de aprender coisas novas, criar projetos e evoluir constantemente como desenvolvedora.
+Tenho 19 anos, sou técnica em Informática para Internet pelo **Instituto Federal de São Paulo (IFSP)** e apaixonada por tecnologia.  
+Estou em busca da minha **primeira oportunidade como estagiária ou desenvolvedora júnior**, onde eu possa aprender, evoluir e contribuir com projetos reais.
 
 ## 📫 Onde me encontrar
 
@@ -55,9 +56,10 @@ Tenho 19 anos, sou técnica em informática para internet pela federal. Sou muit
 ---
 
 ## 📌 Atualmente
-- 📚 Estudando e aprimorando meus conhecimentos em desenvolvimento Full-Stack
-- 🔧 Trabalhando em projetos pessoais para praticar e aprender
-- 🌱 Sempre buscando evoluir e aprender algo novo
+- 🎓 Técnica em Informática para Internet pelo **Instituto Federal de São Paulo (IFSP)**
+- 📚 Estudando desenvolvimento Full Stack
+- 💻 Desenvolvendo projetos práticos para portfólio
+- 🚀 Em busca da primeira oportunidade como estagiária ou desenvolvedora júnior
 
 ---
 
@@ -69,4 +71,4 @@ Aqui no meu GitHub você vai encontrar projetos voltados para estudo, prática e
 
 ## My stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![BLPaixaodev GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=BLPaixaodev&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/BLPaixaodev/github-readme-stats#gh-dark-mode-only) [![BLPaixaodev GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=BLPaixaodev&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/BLPaixaodev/github-readme-stats#gh-light-mode-only)
