@@ -58,8 +58,16 @@ Gosto de aprender coisas novas, criar projetos e evoluir constantemente como des
 
 ## 🚀 Projetos
 Aqui no meu GitHub você vai encontrar projetos voltados para estudo, prática e experimentação de ideias, em sua maioria, projetos realizados no meu curso técnico.
+- 🧠 Meu recente projeto construído quase independente: http://brechokokero.ifhost.gru.br/home
 
 ---
+- name: Commit cards
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@users.noreply.github.com"
+          git add profile/*.svg
+          git commit -m "Update README cards" || exit 0
+          git push
 
 ## My stats
 
