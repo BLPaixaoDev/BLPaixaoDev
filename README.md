@@ -1,7 +1,12 @@
 # 👋 Opa! Sou Bruna Paixão.
 
-Sou muito curiosa e apaixonada por tecnologia.  
-Gosto de aprender coisas novas, criar projetos e evoluir constantemente como desenvolvedora.
+Sou muito curiosa e apaixonada por tecnologia. Tenho 19 anos, sou técnica em informática para internet. Gosto de aprender coisas novas, criar projetos e evoluir constantemente como desenvolvedora.
+
+## 📫 Onde me encontrar
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brunaluizapaixao@outlook.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-USUARIO/)
+
 
 ---
 
@@ -61,13 +66,6 @@ Aqui no meu GitHub você vai encontrar projetos voltados para estudo, prática e
 - 🧠 Meu recente projeto construído quase independente: http://brechokokero.ifhost.gru.br/home
 
 ---
-- name: Commit cards
-        run: |
-          git config user.name "github-actions"
-          git config user.email "github-actions@users.noreply.github.com"
-          git add profile/*.svg
-          git commit -m "Update README cards" || exit 0
-          git push
 
 ## My stats
 
