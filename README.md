@@ -1,6 +1,6 @@
 # 👋 Opa! Sou Bruna Paixão.
 
-Sou muito curiosa e apaixonada por tecnologia. Tenho 19 anos, sou técnica em informática para internet pela federal. Gosto de aprender coisas novas, criar projetos e evoluir constantemente como desenvolvedora.
+Tenho 19 anos, sou técnica em informática para internet pela federal. Sou muito curiosa e apaixonada por tecnologia e gosto de aprender coisas novas, criar projetos e evoluir constantemente como desenvolvedora.
 
 ## 📫 Onde me encontrar
 
