@@ -71,4 +71,4 @@ Aqui no meu GitHub você vai encontrar projetos voltados para estudo, prática e
 
 ## My stats
 
-[![BLPaixaodev GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=BLPaixaodev&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/BLPaixaodev/github-readme-stats#gh-dark-mode-only) [![BLPaixaodev GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=BLPaixaodev&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/BLPaixaodev/github-readme-stats#gh-light-mode-only)
+[![BLPaixaoDev GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=BLPaixaoDev&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/BLPaixaoDev/github-readme-stats#gh-dark-mode-only) [![BLPaixaoDev GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=BLPaixaoDev&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/BLPaixaoDev/github-readme-stats#gh-light-mode-only)
