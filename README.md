@@ -71,4 +71,6 @@ Aqui no meu GitHub você vai encontrar projetos voltados para estudo, prática e
 
 ## My stats
 
-[![BLPaixaoDev GitHub stats](https://github-readme-stats.vercel.app/api?username=BLPaixaoDev)](https://github.com/BLPaixaoDev/github-readme-stats)
+## 📊 GitHub Stats
+
+![BLPaixaoDev GitHub stats](https://github-readme-stats.vercel.app/api?username=BLPaixaoDev&show_icons=true)
