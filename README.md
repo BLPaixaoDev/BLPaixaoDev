@@ -6,7 +6,7 @@ Estou em busca da minha **primeira oportunidade como estagiária ou desenvolvedo
 ## 📫 Onde me encontrar
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brunaluizapaixao@outlook.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-USUARIO/)
+[![LinkedIn](https://www.linkedin.com/in/bruna-luiza-912594316?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
 
 ---
