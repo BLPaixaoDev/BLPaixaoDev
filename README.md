@@ -1,6 +1,6 @@
 # 👋 Opa! Sou Bruna Paixão.
 
-Tenho 19 anos, sou técnica em Informática para Internet pelo **Instituto Federal de São Paulo (IFSP)** e apaixonada por tecnologia.  
+Tenho 19 anos, sou técnica em Informática para Internet pelo **Instituto Federal de São Paulo (IFSP)**, atualmente cursando ciência da computação e apaixonada por tecnologia.  
 Estou em busca da minha **primeira oportunidade como estagiária ou desenvolvedora júnior**, onde eu possa aprender, evoluir e contribuir com projetos reais.
 
 ## 📫 Onde me encontrar
@@ -57,6 +57,7 @@ Estou em busca da minha **primeira oportunidade como estagiária ou desenvolvedo
 
 ## 📌 Atualmente
 - 🎓 Técnica em Informática para Internet pelo **Instituto Federal de São Paulo (IFSP)**
+- 🎓 Cursando Ciência da Computação pela Universidade Cruzeiro do Sul
 - 📚 Estudando desenvolvimento Full Stack
 - 💻 Desenvolvendo projetos práticos para portfólio
 - 🚀 Em busca da primeira oportunidade como estagiária ou desenvolvedora júnior
