@@ -57,7 +57,7 @@ Estou em busca da minha **primeira oportunidade como estagiária ou desenvolvedo
 
 ## 📌 Atualmente
 - 🎓 Técnica em Informática para Internet pelo **Instituto Federal de São Paulo (IFSP)**
-- 🎓 Cursando Ciência da Computação pela Universidade Cruzeiro do Sul
+- 👩🏻‍💻 Cursando Ciência da Computação pela Universidade Cruzeiro do Sul
 - 📚 Estudando desenvolvimento Full Stack
 - 💻 Desenvolvendo projetos práticos para portfólio
 - 🚀 Em busca da primeira oportunidade como estagiária ou desenvolvedora júnior
