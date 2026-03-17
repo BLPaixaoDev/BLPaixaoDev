@@ -18,6 +18,7 @@ Estou em busca da minha **primeira oportunidade como estagiária ou desenvolvedo
 ![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Scratch](https://img.shields.io/badge/Scratch-%23FF6600.svg?style=for-the-badge&logo=scratch&logoColor=white)
 
 
