@@ -67,7 +67,7 @@ Estou em busca da minha **primeira oportunidade como estagiária, trainee ou des
 
 ## 🚀 Projetos
 Aqui no meu GitHub você vai encontrar projetos voltados para estudo, prática e experimentação de ideias, em sua maioria, projetos realizados no meu curso técnico.
-- 🧠 Meu recente projeto construído quase independente: http://brechokokero.ifhost.gru.br/home
+- 🧠 Meu recente projeto construído quase independente: www.github.com/BLPaixaoDev/Projeto-Brechokokero
 
 ---
 
