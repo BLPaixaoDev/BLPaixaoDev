@@ -6,7 +6,7 @@ Estou em busca da minha **primeira oportunidade como estagiária, trainee ou des
 ## 📫 Onde me encontrar
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brunaluizapaixao@outlook.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruna-luiza-912594316)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunapaixãodev)
 
 
 ---
@@ -58,7 +58,7 @@ Estou em busca da minha **primeira oportunidade como estagiária, trainee ou des
 
 ## 📌 Atualmente
 - 🎓 Técnica em Informática para Internet pelo **Instituto Federal de São Paulo (IFSP)**
-- 👩🏻‍💻 Cursando Ciência da Computação pela Universidade Cruzeiro do Sul
+- 👩🏻‍💻 Cursando Ciência da Computação
 - 📚 Estudando desenvolvimento Full Stack
 - 💻 Desenvolvendo projetos práticos para portfólio
 - 🚀 Em busca da primeira oportunidade como estagiária ou desenvolvedora júnior
