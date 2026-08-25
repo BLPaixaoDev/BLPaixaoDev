@@ -1,6 +1,6 @@
 # 👋 Opa! Sou Bruna Paixão.
 
-Tenho 19 anos, sou técnica em Informática para Internet pelo **Instituto Federal de São Paulo (IFSP)**, atualmente cursando ciência da computação e apaixonada por tecnologia.  
+Sou técnica em Informática para Internet pelo **Instituto Federal de São Paulo (IFSP)**, atualmente cursando ciência da computação e apaixonada por tecnologia.  
 Estou em busca da minha **primeira oportunidade como estagiária, trainee ou desenvolvedora júnior**, onde eu possa aprender, evoluir e contribuir com projetos reais.
 
 ## 📫 Onde me encontrar
@@ -19,7 +19,7 @@ Estou em busca da minha **primeira oportunidade como estagiária, trainee ou des
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C](https://img.shields.io/badge/C-3949AB?style=for-the-badge&logo=c&logoColor=white)
 ![Scratch](https://img.shields.io/badge/Scratch-%23FF6600.svg?style=for-the-badge&logo=scratch&logoColor=white)
 
 
